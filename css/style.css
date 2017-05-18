@@ -115,7 +115,7 @@ a.item_add {
   font-weight: 700;
 }
 .search input[type="submit"]:hover {
-  background: #EF5F21;  
+  background: #4682b4;  
   color: #fff;
     transition: 0.5s all;
   -webkit-transition: 0.5s all;
@@ -140,7 +140,7 @@ a.item_add {
 	  margin: 0 2em 0 0;
 }
 .header-left ul li a:hover{
-		color:  #EF5F21; 
+		color:  #4682b4; 
 }
 .logo{
 	float: left;
@@ -178,7 +178,7 @@ a.item_add {
   transition: all 0.3s ease-in-out;
 }
 .h_nav ul li a:hover{
-	color:#EF5F21;
+	color:#4682b4;
 	text-decoration:underline;
 }
 /*--banner--*/
@@ -289,12 +289,12 @@ height: 35px;
 	text-decoration: none;
 	color:#fff;
 	font-size:1.2em;
-	background: #EF5F21;
+	background: #4682b4;
 	padding: 0.4em 1em;
 	border-radius:5px;
 }
 .banner-text a:hover{
-	color: #EF5F21;
+	color: #4682b4;
 	background: #fff;
 }
 /*--content-top--*/
@@ -323,7 +323,7 @@ height: 35px;
   text-decoration: none;
 }
 .grid-top p a:hover{
-	  color: #EF5F21;
+	  color: #4682b4;
 }
 .grid-in {
   padding: 2em 0 0;
@@ -435,7 +435,7 @@ height: 35px;
 .b-from-left{
 	position: relative;
 	left: -100%;
-	background: rgba(239, 95, 33, 0.64);
+	background: rgba(70, 130, 180, 0.64);
   background-size: 100% 100%;
   top: 0px;
   margin: 0;
@@ -455,7 +455,7 @@ height: 35px;
 .b-from-top{
 	position: relative;
 	top: -100%;
-	background: rgba(239, 95, 33, 0.64);
+	background: rgba(70, 130, 180, 0.64);
   background-size: 100% 100%;
  
   margin: 0;
@@ -534,7 +534,7 @@ ul.nav-bottom li  a{
 	  margin: 0.2em 0;
 }
 ul.nav-bottom li  a:hover{
-	color:#EF5F21;
+	color:#4682b4;
 }
 .amet-sed p{
 	color:#989696;
@@ -548,7 +548,7 @@ ul.nav-bottom li  a:hover{
 
 }
 .footer-class  p a{
-	color:#EF5F21;
+	color:#4682b4;
 	text-decoration:none;
 }
 .footer-class  p a:hover{
@@ -575,14 +575,14 @@ padding:1em 0 0;
   width: 20%;
   color: #FFF;
   font-size: 1em;
-  background:#EF5F21;
+  background:#4682b4;
   border: none;
   outline:none;
   padding: 0.5em;
 }
 .amet-sed input[type="submit"]:hover {
 background: #fff;
-color:#EF5F21;
+color:#4682b4;
 }
 ul.social{
 	padding:1em 0 0;
@@ -654,7 +654,7 @@ ul.social li i:hover{
 .send input[type="submit"]{
 	width: 14%;
 	font-size: 1.1em;
-	background:#EF5F21;
+	background:#4682b4;
 	padding: 0.4em 0.8em;
 	text-align: center;
 	color: #fff;
@@ -689,7 +689,7 @@ ul.social li i:hover{
 	color: #626262;
 }
 .address-more p a:hover{
-	color: #EF5F21;
+	color: #4682b4;
 }
 /*--//contact--*/
 /*--blog--*/
@@ -721,7 +721,7 @@ ul.social li i:hover{
 }
 .blog-poast-info ul li a:hover {
 	text-decoration:none;
-	color:#EF5F21;
+	color:#4682b4;
 }
 .blog-poast-info ul li  i {
 	width: 20px;
@@ -755,7 +755,7 @@ ul.social li i:hover{
 	text-decoration: none;
 }
 .grid_3 h3 a:hover {
-  color: #EF5F21;
+  color: #4682b4;
 }
 .button {
 	margin-top: 20px;
@@ -764,7 +764,7 @@ ul.social li i:hover{
 	color:#fff;
 	font-size: 1em;
 	text-transform: uppercase;
-	background: #EF5F21;
+	background: #4682b4;
 	padding: 0.4em 1em;
 	text-decoration: none;
 		text-decoration:none;
@@ -815,8 +815,8 @@ p.m_11 {
 }
 .tags li a:hover {
 	color: #fff;
-	background:#EF5F21;
-	border: 1px solid #EF5F21;
+	background:#4682b4;
+	border: 1px solid #4682b4;
 }
 
 .tags ul li:nth-child(4),.tags ul li:nth-child(8),.tags ul li:nth-child(12){
@@ -847,8 +847,8 @@ nav.in{
 }
 .pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus {
   color: #fff;
-  background-color:#EF5F21;
-  border-color: #EF5F21;
+  background-color:#4682b4;
+  border-color: #4682b4;
 }
 .pagination > li > a, .pagination > li > span {
 
@@ -876,7 +876,7 @@ ul.kid-menu{
 	
 }
 .menu > li > a:hover{
-	color:#EF5F21;
+	color:#4682b4;
 }
 .menu ul li a {	
 	width: 100%;
@@ -890,7 +890,7 @@ ul.kid-menu{
 	text-indent: 1.2em;
 }
 .menu ul li a:hover{
-	color:#EF5F21;
+	color:#4682b4;
 }
 ul.kid-menu li,.menu ul li{
 	list-style: none;	
@@ -909,8 +909,8 @@ h3.best {
     font-family: 'Lato', sans-serif;
 }
 .pagination > .active > a, .pagination > .active > a:hover {
-  background: #EF5F21;
-  border-color: #EF5F21;
+  background: #4682b4;
+  border-color: #4682b4;
 }
 /*----*/
 .product-middle{
@@ -941,8 +941,8 @@ a.shop-now{
 	  color:#fff;
 }
 a.shop-now:hover{
-	  border: 1px solid #EF5F21;
-	  background:#EF5F21;
+	  border: 1px solid #4682b4;
+	  background:#4682b4;
 }
 h3.tag {
 	color: #000;
@@ -974,13 +974,13 @@ h3.tag {
  	text-decoration: none;
  }
  h6.best2 a:hover{
-	color:#EF5F21;
+	color:#4682b4;
  }
  span.price-in1 {
   font-size: 1.7em;
   padding: 0.3em 0 0;
   display: block;
-  color:#EF5F21;
+  color:#4682b4;
 }
 span.price-in1 small {
   text-decoration: line-through;
@@ -996,17 +996,17 @@ span.price-in1 small {
 }
 .six1 h4{
 	font-size:2.5em;
-	color:#EF5F21;
+	color:#4682b4;
 font-weight: 100;	
 }
 .six1 p{
 	font-size:2em;
-	color:#EF5F21;
+	color:#4682b4;
 	  margin: 0.5em 0 0;
 }
 .six1 span{
 	font-size:6em;
-	color:#EF5F21;
+	color:#4682b4;
 	font-weight: 100;
 	  font-family: 'Lato', sans-serif;
 }
@@ -1020,7 +1020,7 @@ a.item_add p.number{
 	font-size: 1.1em;
   color: #FFF;
   text-align: center;
-  background: #EF5F21;
+  background: #4682b4;
   padding: 0.5em 1em;
 }
 a.item_add p.number:hover{
@@ -1070,13 +1070,13 @@ p.tun{
 	color:#fff;
 	font-size:1.1em;
 	font-weight:600;
-	background:#EF5F21;
+	background:#4682b4;
 	padding: 0.5em 1.5em;
 	text-transform: uppercase;
 }
 .pro-grid span:hover{
 	background:#fff;
-	color:#EF5F21;
+	color:#4682b4;
 }
 /*--//product--*/
 /*--single--*/
@@ -1103,7 +1103,7 @@ p.tun{
     margin: 1em 0;
 }
 .single-para h5 {
-  color: #EF5F21;
+  color: #4682b4;
   font-size: 2em;
   border-bottom: 1px solid #C4C3C3;
   padding: 0.3em 0;
@@ -1152,7 +1152,7 @@ ul.tag-men li span.women1{
 a.add-cart {
   text-decoration: none;
   color: #fff;
-  background: #EF5F21;
+  background: #4682b4;
   padding: 0.4em 0.8em;
   font-size:0.9em;
   text-transform: uppercase;
@@ -1191,7 +1191,7 @@ h3.real{
 	color:#000;
 }
 .star-on a:hover{
-	color:#EF5F21;
+	color:#4682b4;
 }
 /*----*/
 .cd-tabs-navigation {
@@ -1216,7 +1216,7 @@ h3.real{
 }
 
 .cd-tabs-navigation a.selected  {
-	background:#EF5F21;
+	background:#4682b4;
   color:#fff;
 }
 
@@ -1290,7 +1290,7 @@ padding: 1em 0;
 a.add-re{
 	text-decoration: none;
   color: #fff;
-  background: #EF5F21;
+  background: #4682b4;
   padding: 0.4em 0.8em;
   font-size: 0.9em;
   text-transform: uppercase;
@@ -1354,7 +1354,7 @@ a.add-re:hover{
 	position: relative;
 }
 .news-letter {
-	color: #EF5F21;
+	color: #4682b4;
 	font-size: 1em;
 	margin-bottom: 1em;
 	display:inline-block;
@@ -1373,7 +1373,7 @@ a.add-re:hover{
 	width:20px;
 	height:20px;
 	outline: none;
-	border: 2px solid #EF5F21;
+	border: 2px solid #4682b4;
 }
 .checkbox input + i:after {
 	content: '';
@@ -1405,7 +1405,7 @@ a.add-re:hover{
 	color:#000;
 }
 .register-bottom-grid input[type="submit"] {
-	background: #EF5F21;
+	background: #4682b4;
 	padding: 0.4em 1em;
 	color: #fff;
 	font-size:1.2em;
@@ -1460,7 +1460,7 @@ a.add-re:hover{
 	padding:7px 20px;
 	color:#FFF;
 	cursor:pointer;
-	background:#EF5F21;
+	background:#4682b4;
 	border:none;
 	width:20%;
    margin:1em auto 0;
@@ -1481,7 +1481,7 @@ a.add-re:hover{
 .five {
   background: #fff;
   border-radius: 100px;
-  border: 2px solid #EF5F21;
+  border: 2px solid #4682b4;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -1492,7 +1492,7 @@ a.add-re:hover{
 }
 .five span {
   font-size: 1em;
-  color: #EF5F21;
+  color: #4682b4;
 }
 .five h2 {
   font-size: 1.5em;
@@ -1503,7 +1503,7 @@ a.create {
   text-decoration: none;
   color: #fff;
   padding: 7px 20px;
-  background: #EF5F21;
+  background: #4682b4;
   text-align: center;
   display: block;
  }
@@ -1536,7 +1536,7 @@ a.create {
 .single-bottom  input[type="submit"]{
 	width: 10%;
 	font-size: 1.3em;
-	background: #EF5F21;
+	background: #4682b4;
 	padding: 0.4em 0.8em;
 	text-align: center;
 	color: #fff;
@@ -1637,7 +1637,7 @@ a.create {
   position: relative;  
 }
 a.order {
-  background:#EF5F21;
+  background:#4682b4;
   padding: 10px 20px;
    font-family: 'Lato', sans-serif;
   font-size: 1em;
@@ -1669,7 +1669,7 @@ a.order:hover{
 	margin-right:6em;
 }
 a.cpns{
-	background:#EF5F21;
+	background:#4682b4;
 	color:#fff;
 	 font-family: 'Lato', sans-serif;
 	padding: 10px;
@@ -1692,7 +1692,7 @@ a.cpns:hover{
 	text-decoration:underline;
 }
 a.continue{
-	background:#EF5F21;
+	background:#4682b4;
 	padding:10px 20px;
 	  font-family: 'Lato', sans-serif;
 	font-size:1em;
