@@ -175,6 +175,7 @@ a.item_add {
 	color:#4682b4;
 	text-decoration:underline;
 }
+
 /*--banner--*/
 
 .banner{
@@ -539,9 +540,18 @@ ul.nav-bottom li  a:hover{
 
 .footer-class  p{
 	color:#fff;
-	font-size:1.2em;
+	font-size:1.3em;
 
 }
+
+.footer-class  p.copyright{
+	color:#ff0000;
+	font-size:0.9em;
+	text-decoration: underline;
+	font-weight: bolder;
+	margin-bottom: 10px;
+}
+
 .footer-class  p a{
 	color:#4682b4;
 	text-decoration:none;
